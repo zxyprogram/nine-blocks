@@ -1,2 +1,41 @@
 # nine-blocks
 css-mission1
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>任务一</title>
+<style>
+	body{
+		
+	}
+	div.squre{
+		width:27%;
+		height:0;
+		padding-bottom: 27%;
+		background-color: yellow;
+		margin: 3% 3% 3% 3%;
+		
+		float: left;
+		border-radius: 10px;
+	}
+	
+</style>
+</head>
+
+<body>
+	
+		<div class="squre"></div>
+		<div class="squre"></div>
+		<div class="squre"></div>
+	
+		<div class="squre"></div>
+		<div class="squre"></div>
+		<div class="squre"></div>
+	
+		<div class="squre"></div>
+		<div class="squre"></div>
+		<div class="squre"></div>
+
+</body>
+</html>
